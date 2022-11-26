@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijaykrishnak04
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning flutter 
+- 🌱 I’m currently learning Mern Stack 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
