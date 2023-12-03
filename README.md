@@ -9,7 +9,7 @@
 "I am a developer on a mission to bring innovation and creativity to every line of code. With a keen eye for detail and a thirst for knowledge, I am constantly seeking out new challenges and opportunities to hone my skills. I believe that coding is not just a profession, but a form of art that can inspire and transform the world. From complex algorithms to elegant user interfaces, I am driven by the limitless potential of technology to solve problems and enrich lives. Join me on this exciting journey and let's create something amazing together."
 
 * 🌍  I'm based in Calicut, Kerala, India
-* ✉️  How to reach me [dev.muhammedshifin.com](mailto:vijaykrishna0209@gmail.com)
+* ✉️  How to reach me [Vijay Krishna k](mailto:vijaykrishna0209@gmail.com)
 * 🚀  I'm currently working on [Tutoting app Project](https://github.com/vijaykrishna04/)
 * 🧠  I'm learning Nest.js
 
@@ -43,10 +43,10 @@
 
 ### Socials
 
-<a href="http://www.instagram.com/shifin_0_0_7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhammed-shifin/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="http://www.instagram.com/___vj.__.y_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="linkedin.com/in/vijay-krishna-9bb704242/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/shifin424"><img src="https://github-readme-stats.vercel.app/api?username=shifin424&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="shifin424's GitHub stats" /></a>
+<a href="http://www.github.com/vijaykrishnak04"><img src="https://github-readme-stats.vercel.app/api?username=vijaykrishnak04&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="vijaykrishnak04's GitHub stats" /></a>
