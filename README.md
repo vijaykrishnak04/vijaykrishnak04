@@ -10,8 +10,8 @@
 
 * 🌍  I'm based in Calicut, Kerala, India
 * ✉️  How to reach me [Vijay Krishna k](mailto:vijaykrishna0209@gmail.com)
-* 🚀  I'm currently working on [Tutoting app Project](https://github.com/vijaykrishna04/)
-* 🧠  I'm learning Nest.js
+* 🚀  I'm currently working on Client Project
+* 🧠  I'm learning Next.js
 
 ### Skills
 
